@@ -1,2 +1,2 @@
 # landing-page
-simply z landing page made with css
+simply a landing page made with css
